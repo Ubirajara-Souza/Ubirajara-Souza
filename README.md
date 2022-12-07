@@ -1,9 +1,9 @@
 ### Olá eu sou Ubirajara Souza 👋
 
 - 👨‍💻 Software Engineer | C# | .NET | ASP .NET Core | Java | Spring | Golang | Angular.
-- 🎓 Tecnólogo em análise e desenvolvimento de sistemas.
-- 🎓 Bacharel em administração.
-- ⛪ Católico apostólico romano.
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
+- 🎓 Bacharel em Administração.
+- ⛪ Católico Apostólico Romano.
 - ⛪ Deus não poderia inspirar em mim desejos irrealizáveis.
 
 <div align="center">
